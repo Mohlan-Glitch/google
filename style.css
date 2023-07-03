@@ -9,11 +9,11 @@ body{
 }
 .sub{
   margin-bottom:10px;
-  display: inline;
-  width:200px;
+  display: block;
+  width:400px;
   height:300px;
 }
 .olm{
-display: inline;
-  width:450px;
+display: block;
+  width:500px;
 }
