@@ -1,0 +1,16 @@
+body{
+  background:purple;
+  color:blue;
+  text-align:middle;
+  font-size:30px;
+}
+.main{
+  margin-top:10px;
+}
+.sub{
+  width:200px;
+  height:300px;
+}
+.olm{
+  width:450px;
+}
