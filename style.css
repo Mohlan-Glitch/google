@@ -8,11 +8,12 @@ body{
   margin-top:10px;
 }
 .sub{
+  margin-bottom:10px;
   display: block;
   width:200px;
   height:300px;
 }
 .olm{
-display:inline;
+display: block;
   width:450px;
 }
