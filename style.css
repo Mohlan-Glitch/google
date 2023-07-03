@@ -8,6 +8,7 @@ body{
   margin-top:10px;
 }
 .sub{
+  display: block;
   width:200px;
   height:300px;
 }
