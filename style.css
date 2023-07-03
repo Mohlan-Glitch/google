@@ -13,5 +13,6 @@ body{
   height:300px;
 }
 .olm{
+display:inline;
   width:450px;
 }
